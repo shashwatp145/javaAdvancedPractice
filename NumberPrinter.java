@@ -1,8 +1,6 @@
 public class NumberPrinter implements Runnable {
 
     private int numToPrint=1;
-    
-  
 
     @Override
     public void run() {
